@@ -3,3 +3,4 @@ In this repo you can find all the good algorithms with proper commenting for the
 
 ## Types of algos
  * [Searching](https://github.com/Satyam-Bhalla/Algorithms/tree/master/Searching) - All Searching Algorithms
+ * [Sorting](https://github.com/Satyam-Bhalla/Algorithms/tree/master/Sorting) - All Sorting Algorithms
