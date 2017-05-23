@@ -3,10 +3,10 @@ In this repo you can find all the good algorithms with proper commenting for the
 
 ## Types of algos
  * [Searching](https://github.com/Satyam-Bhalla/Algorithms/tree/master/Searching) - All Searching Algorithms
-  - *[Linear Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Linear_Search.cpp)
-  - *[Binary Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Binary_Search.cpp)
-  - *[Exponential Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Exponential_Search.cpp)
-  - *[Jump Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Jump_Search.cpp)
-  - *[Interpolation Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Interpolation_Search.cpp)
-  - *[Ternary Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Ternary_Search.cpp)
+      [Linear Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Linear_Search.cpp)
+      [Binary Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Binary_Search.cpp)
+      [Exponential Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Exponential_Search.cpp)
+      [Jump Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Jump_Search.cpp)
+      [Interpolation Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Interpolation_Search.cpp)
+      [Ternary Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Ternary_Search.cpp)
  * [Sorting](https://github.com/Satyam-Bhalla/Algorithms/tree/master/Sorting) - All Sorting Algorithms
