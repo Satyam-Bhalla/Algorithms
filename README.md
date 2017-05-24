@@ -10,3 +10,7 @@ In this repo you can find all the good algorithms with proper commenting for the
    *   [Interpolation Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Interpolation_search.cpp)
    *   [Ternary Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Ternary_Search.cpp)
  * [Sorting](https://github.com/Satyam-Bhalla/Algorithms/tree/master/Sorting) - All Sorting Algorithms
+
+## Complexity
+![big-o-cheat-sheet-poster](https://cloud.githubusercontent.com/assets/17814101/26397230/3c77ad78-4093-11e7-879b-284f355ee828.png)
+
