@@ -10,7 +10,16 @@ In this repo you can find all the good algorithms with proper commenting for the
    *   [Interpolation Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Interpolation_search.cpp)
    *   [Ternary Search](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Searching/Ternary_Search.cpp)
  * [Sorting](https://github.com/Satyam-Bhalla/Algorithms/tree/master/Sorting) - All Sorting Algorithms
-
+   *   [Bubble Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Bubble_Sort.cpp)
+   *   [Bucket Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Bucket_Sort.cpp)
+   *   [Comb Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Comb_Sort.cpp)
+   *   [Counting Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Counting_Sort.cpp)
+   *   [Cycle Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Cycle_Sort.cpp)
+   *   [Heap Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Heap_Sort.cpp)
+   *   [Insertion Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Insertion_Sort.cpp)
+   *   [Merge Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Merge_sort.cpp)
+   *   [Pigeonhole Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Pigeonhole_Sort.cpp)
+   *   [Quick Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Quick_Sort.cpp)
 ### Complexities of Data Structures and Sorting Algos
 ![big-o-cheat-sheet-poster](https://cloud.githubusercontent.com/assets/17814101/26397230/3c77ad78-4093-11e7-879b-284f355ee828.png)
 
