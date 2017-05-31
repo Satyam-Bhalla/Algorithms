@@ -21,9 +21,9 @@ In this repo you can find all the good algorithms with proper commenting for the
    *   [Pigeonhole Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Pigeonhole_Sort.cpp)
    *   [Quick Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Quick_Sort.cpp)
 
-### Big-O Complexity Graph
+## Big-O Complexity Graph
 ![big-o-complexity](https://cloud.githubusercontent.com/assets/17814101/26618250/4c32bc62-45f7-11e7-890a-26d7255e0815.JPG)
 
-### Complexities of Data Structures and Sorting Algos
+## Complexities of Data Structures and Sorting Algos
 ![big-o-cheat-sheet-poster](https://cloud.githubusercontent.com/assets/17814101/26397230/3c77ad78-4093-11e7-879b-284f355ee828.png)
 
