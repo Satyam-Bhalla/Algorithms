@@ -19,7 +19,7 @@ In this repo you can find all the good algorithms with proper commenting for the
    *   [Insertion Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Insertion_Sort.cpp)
    *   [Merge Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Merge_sort.cpp)
    *   [Pigeonhole Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Pigeonhole_Sort.cpp)
-   *   [Quick Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Quick_Sort.cpp)
+   *   [Quick Sort](https://github.com/Satyam-Bhalla/Algorithms/blob/master/Sorting/Quick_Sort.cpp)gg dd
 
 ## Big-O Complexity Graph
 ![big-o-complexity](https://cloud.githubusercontent.com/assets/17814101/26618250/4c32bc62-45f7-11e7-890a-26d7255e0815.JPG)
